@@ -1,10 +1,12 @@
-# wiremock
+# java-sample-wiremock
+
+声明：本实例用于个人学习参考。所有内容均参考至网络，由本人手动敲（抄）写。请勿用于商业途径。
 
 ## 一、什么是wiremock
 
 **wiremock**是一个server，专门用来模拟响应各式各样的http请求。
 
-![1542098081799](C:\Users\llei\AppData\Roaming\Typora\typora-user-images\1542098081799.png)
+![1545121143644](assets/1545121143644.png)
 
 ## 二、如何获取wiremock
 
@@ -16,7 +18,7 @@
 
 2. 下载
 
-   ![1542097677856](C:\Users\llei\AppData\Roaming\Typora\typora-user-images\1542097677856.png)
+   ![1545121422170](assets/1545121422170.png)
 
 ## 三、运行wiremock
 
